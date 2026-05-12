@@ -1,0 +1,11 @@
+{
+  "name": "typescript-exercise-generator-skill",
+  "description": "TypeScript coach: exercise generator & checker with hints function (RU)",
+  "version": "1.0.0",
+  "author": {
+    "name": "aleksei-perchukov"
+  },
+  "license": "MIT",
+  "keywords": ["typescript", "exercise", "generator", "ru"],
+  "skills": ["./skills/typescript-exercise-generator-skill"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kotlin-exercise-generator-skill",
+  "description": "Kotlin coach: exercise generator & checker with hints function (RU)",
+  "version": "1.0.0",
+  "author": {
+    "name": "aleksei-perchukov"
+  },
+  "license": "MIT",
+  "keywords": ["kotlin", "exercise", "generator", "ru"],
+  "skills": ["./skills/kotlin-exercise-generator-skill"]
+}

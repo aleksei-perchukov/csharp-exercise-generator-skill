@@ -1,0 +1,58 @@
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# C# / .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Go
+vendor/
+*.exe
+*.test
+*.out
+
+# Java / Kotlin (Gradle / Maven)
+.gradle/
+build/
+out/
+target/
+*.class
+*.jar
+
+# JavaScript / TypeScript / Node.js
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+# (don't ignore .js/.d.ts globally — exercises may include hand-written sources)
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Rust
+target/
+Cargo.lock
+
+# Swift
+.build/
+.swiftpm/
+Package.resolved
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/

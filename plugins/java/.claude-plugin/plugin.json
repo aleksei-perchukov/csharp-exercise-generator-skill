@@ -1,0 +1,11 @@
+{
+  "name": "java-exercise-generator-skill",
+  "description": "Java coach: exercise generator & checker with hints function (RU)",
+  "version": "1.0.0",
+  "author": {
+    "name": "aleksei-perchukov"
+  },
+  "license": "MIT",
+  "keywords": ["java", "exercise", "generator", "ru"],
+  "skills": ["./skills/java-exercise-generator-skill"]
+}

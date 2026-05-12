@@ -1,0 +1,94 @@
+{
+  "name": "aperchukov-skills",
+  "id": "aperchukov-skills",
+  "owner": {
+    "name": "aleksei-perchukov"
+  },
+  "metadata": {
+    "description": "Coding exercise coaches for 9 languages (RU): C#, Go, Java, JavaScript, Kotlin, Python, Rust, Swift, TypeScript",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "csharp-exercise-generator-skill",
+      "source": "./plugins/csharp",
+      "description": "C# coach: exercise generator & checker with hints function (RU)",
+      "version": "1.0.0",
+      "author": { "name": "aleksei-perchukov" },
+      "keywords": ["csharp", "exercise", "generator", "ru"],
+      "category": "coach"
+    },
+    {
+      "name": "go-exercise-generator-skill",
+      "source": "./plugins/go",
+      "description": "Go coach: exercise generator & checker with hints function (RU)",
+      "version": "1.0.0",
+      "author": { "name": "aleksei-perchukov" },
+      "keywords": ["go", "golang", "exercise", "generator", "ru"],
+      "category": "coach"
+    },
+    {
+      "name": "java-exercise-generator-skill",
+      "source": "./plugins/java",
+      "description": "Java coach: exercise generator & checker with hints function (RU)",
+      "version": "1.0.0",
+      "author": { "name": "aleksei-perchukov" },
+      "keywords": ["java", "exercise", "generator", "ru"],
+      "category": "coach"
+    },
+    {
+      "name": "javascript-exercise-generator-skill",
+      "source": "./plugins/javascript",
+      "description": "JavaScript coach: exercise generator & checker with hints function (RU)",
+      "version": "1.0.0",
+      "author": { "name": "aleksei-perchukov" },
+      "keywords": ["javascript", "js", "exercise", "generator", "ru"],
+      "category": "coach"
+    },
+    {
+      "name": "kotlin-exercise-generator-skill",
+      "source": "./plugins/kotlin",
+      "description": "Kotlin coach: exercise generator & checker with hints function (RU)",
+      "version": "1.0.0",
+      "author": { "name": "aleksei-perchukov" },
+      "keywords": ["kotlin", "exercise", "generator", "ru"],
+      "category": "coach"
+    },
+    {
+      "name": "python-exercise-generator-skill",
+      "source": "./plugins/python",
+      "description": "Python coach: exercise generator & checker with hints function (RU)",
+      "version": "1.0.0",
+      "author": { "name": "aleksei-perchukov" },
+      "keywords": ["python", "exercise", "generator", "ru"],
+      "category": "coach"
+    },
+    {
+      "name": "rust-exercise-generator-skill",
+      "source": "./plugins/rust",
+      "description": "Rust coach: exercise generator & checker with hints function (RU)",
+      "version": "1.0.0",
+      "author": { "name": "aleksei-perchukov" },
+      "keywords": ["rust", "exercise", "generator", "ru"],
+      "category": "coach"
+    },
+    {
+      "name": "swift-exercise-generator-skill",
+      "source": "./plugins/swift",
+      "description": "Swift coach: exercise generator & checker with hints function (RU)",
+      "version": "1.0.0",
+      "author": { "name": "aleksei-perchukov" },
+      "keywords": ["swift", "exercise", "generator", "ru"],
+      "category": "coach"
+    },
+    {
+      "name": "typescript-exercise-generator-skill",
+      "source": "./plugins/typescript",
+      "description": "TypeScript coach: exercise generator & checker with hints function (RU)",
+      "version": "1.0.0",
+      "author": { "name": "aleksei-perchukov" },
+      "keywords": ["typescript", "exercise", "generator", "ru"],
+      "category": "coach"
+    }
+  ]
+}

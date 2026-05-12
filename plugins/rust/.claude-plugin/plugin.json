@@ -1,0 +1,11 @@
+{
+  "name": "rust-exercise-generator-skill",
+  "description": "Rust coach: exercise generator & checker with hints function (RU)",
+  "version": "1.0.0",
+  "author": {
+    "name": "aleksei-perchukov"
+  },
+  "license": "MIT",
+  "keywords": ["rust", "exercise", "generator", "ru"],
+  "skills": ["./skills/rust-exercise-generator-skill"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "csharp-exercise-generator-skill",
+  "description": "C# coach: exercise generator & checker with hints function (RU)",
+  "version": "1.0.0",
+  "author": {
+    "name": "aleksei-perchukov"
+  },
+  "license": "MIT",
+  "keywords": ["csharp", "exercise", "generator", "ru"],
+  "skills": ["./skills/csharp-exercise-generator-skill"]
+}

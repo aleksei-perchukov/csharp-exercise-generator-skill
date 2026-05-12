@@ -1,0 +1,11 @@
+{
+  "name": "javascript-exercise-generator-skill",
+  "description": "JavaScript coach: exercise generator & checker with hints function (RU)",
+  "version": "1.0.0",
+  "author": {
+    "name": "aleksei-perchukov"
+  },
+  "license": "MIT",
+  "keywords": ["javascript", "js", "exercise", "generator", "ru"],
+  "skills": ["./skills/javascript-exercise-generator-skill"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "go-exercise-generator-skill",
+  "description": "Go coach: exercise generator & checker with hints function (RU)",
+  "version": "1.0.0",
+  "author": {
+    "name": "aleksei-perchukov"
+  },
+  "license": "MIT",
+  "keywords": ["go", "golang", "exercise", "generator", "ru"],
+  "skills": ["./skills/go-exercise-generator-skill"]
+}

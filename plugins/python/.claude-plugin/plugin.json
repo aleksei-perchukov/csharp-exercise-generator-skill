@@ -1,0 +1,11 @@
+{
+  "name": "python-exercise-generator-skill",
+  "description": "Python coach: exercise generator & checker with hints function (RU)",
+  "version": "1.0.0",
+  "author": {
+    "name": "aleksei-perchukov"
+  },
+  "license": "MIT",
+  "keywords": ["python", "exercise", "generator", "ru"],
+  "skills": ["./skills/python-exercise-generator-skill"]
+}
